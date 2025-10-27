@@ -1,1 +1,1 @@
-# Laboratorio: Introduzione a Python
+# 🐍 Laboratorio: Introduzione a Python
