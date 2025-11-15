@@ -5,15 +5,10 @@
 
 ```
 ├── 01_teoria/                              # Teoria
-│   ├── python_control_flow
-│   ├── python_int
-│   ├── python_str
-│   ├── python_float
-│   ├── python_array
-│   ├── python_dict
-│   ├── python_set
-│   ├── ...
-│   └── ...
+│   ├── 00_python_introduction.ipynb
+│   ├── 01_python_data_types.ipynb
+│   ├── 02_python_control_flow.ipynb
+│   └── 03_python_functions.ipynnb
 │
 ├── 02_esercizi/                            # Esercizi
 │   ├── python_ex_0.ipynb
