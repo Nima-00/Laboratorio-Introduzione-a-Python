@@ -21,7 +21,8 @@
 │   ├── python_ex_07.ipynb
 │   ├── python_ex_08.ipynb
 │   ├── python_ex_09.ipynb
-│   └── python_ex_10.ipynb
+│   ├── python_ex_10.ipynb
+│   └── python_ex_11.ipynb
 │
 ├── 03_soluzioni/                           # Soluzioni
 │   ├── python_sol_00.ipynb
@@ -34,7 +35,8 @@
 │   ├── python_sol_07.ipynb
 │   ├── python_sol_08.ipynb
 │   ├── python_sol_09.ipynb
-│   └── python_sol_10.ipynb
+│   ├── python_sol_10.ipynb
+│   └── python_sol_11.ipynb
 │
 └── README.md
 ```
